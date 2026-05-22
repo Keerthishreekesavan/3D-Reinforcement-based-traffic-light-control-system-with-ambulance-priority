@@ -322,7 +322,7 @@ The controller can:
 git clone https://github.com/Keerthishreekesavan/3D-Reinforcement-based-traffic-light-control-system-with-ambulance-priority
 ```
 
-### Navigate to Project Directory
+### Navigate to Project Directory if in case of Nested
 
 ```bash
 cd 3D-RL-Traffic-Signal-Control-System
