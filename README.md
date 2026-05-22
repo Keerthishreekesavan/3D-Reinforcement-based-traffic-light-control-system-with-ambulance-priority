@@ -242,28 +242,27 @@ The controller can:
 - Responsive visualization
 
 ---
-
-# 📸 Screenshots
-
-> Add screenshots after deployment for maximum impact.
+# 📸 Project Preview
 
 ## Traffic Simulation
 
-```text
-assets/traffic-simulation.png
-```
+![Traffic Simulation](Interface/Traffic%20Simulation.png)
 
 ## Ambulance Priority Mode
 
-```text
-assets/ambulance-priority.png
-```
+![Ambulance Priority Mode](Interface/Ambulance%20Priority%20Mode.png)
 
-## Analytics Dashboard
+## Dashboard
 
-```text
-assets/dashboard.png
-```
+![Dashboard](Interface/Dashboard.png)
+
+## Dashboard Metrics
+
+![Dashboard Metrics](Interface/Dashboard%20Metrics.png)
+
+
+![Dashboard Metrics](Interface/Dashboard%20Metrics%20with%20notes.png)
+
 
 ---
 
@@ -296,45 +295,16 @@ assets/dashboard.png
 ```
 
 ---
-
 # 🛠️ Technology Stack
 
-## Frontend
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-
-## State Management
-
-- Zustand
-
-## UI Components
-
-- Radix UI
-- React Hook Form
-- Zod
-
-## Visualization
-
-- React Three Fiber
-- Three.js
-- WebGL
-- Recharts
-
-## AI & Simulation
-
-- Reinforcement Learning Concepts
-- Traffic Environment Simulator
-- State-Action-Reward Logic
-- Emergency Vehicle Priority Engine
-- Python RL Environment
-
-## Deployment
-
-- Vercel
-- GitHub
+| Category | Technologies |
+|-----------|-------------|
+| 🎨 Frontend | Next.js, React, TypeScript, Tailwind CSS |
+| 🗂️ State Management | Zustand |
+| 🧩 UI Components | Radix UI, React Hook Form, Zod |
+| 🌐 Visualization | React Three Fiber, Three.js, WebGL, Recharts |
+| 🧠 AI & Simulation | Reinforcement Learning Concepts, Traffic Environment Simulator, State-Action-Reward Logic, Emergency Vehicle Priority Engine, Python RL Environment |
+| 🚀 Deployment | Vercel, GitHub |
 
 ---
 
