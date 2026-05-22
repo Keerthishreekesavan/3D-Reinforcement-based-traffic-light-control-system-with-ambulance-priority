@@ -319,7 +319,7 @@ The controller can:
 ### Clone Repository
 
 ```bash
-git clone https:
+git clone https://github.com/Keerthishreekesavan/3D-Reinforcement-based-traffic-light-control-system-with-ambulance-priority
 ```
 
 ### Navigate to Project Directory
@@ -429,14 +429,14 @@ This project demonstrates how intelligent transportation systems can:
 
 # 👩‍💻 Author
 
-## Keerthishree Kesavan
+## Keerthishree Kesavan 🌷
 
 AI & Machine Learning Engineering Student
 
 ### Connect With Me
 
-- GitHub: https://github.com/keerthishree
-- LinkedIn: https://www.linkedin.com/in/keerthishree-kesavan/
+- GitHub: https://github.com/Keerthishreekesavan
+- LinkedIn: https://www.linkedin.com/in/keerthishreekesavan/
 
 ---
 
